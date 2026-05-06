@@ -1,4 +1,7 @@
 # 🛍️ ShopAI — Personalized Product Recommendation System
+
+<img width="1280" height="698" alt="WhatsApp Image 2026-05-06 at 4 49 27 PM" src="https://github.com/user-attachments/assets/fc3b9cfc-c202-4c4d-b7c1-42840a7979af" />
+
 > **Built by AIVONEX SMC-PVT LTD, Bahawalpur, Pakistan**
 > AI-Powered E-Commerce Platform with Hybrid Machine Learning Recommendations
 
